@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0117/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0117_WYG_000-1a, image: WYG1249/WYG1249-0001a.png}
+body:
+  text: 椒邱文集别集類五明提要臣等謹案椒邱文集三十四卷明何喬新撰喬新有周禮集注已著録明史喬新本傳載其厯任中外多著政績人以氣節剛方為萬安劉吉所排故迄不得大用又載江西巡撫林俊為喬新請諡時中㫖詰喬新致仕之由給事中吳世忠為訟寃以鄒魯之劾喬新比於蔣之竒劾歐陽修胡紘劾朱子是誠太過然核其立朝始末嶽嶽懷方在成化𢎞治之間不能不謂之名臣也是集前三卷為䇿略蓋科舉之學次五卷為史論次十二卷為雜文次五卷為詩次六卷為碑誄次三卷為奏議外集一卷則往來贈答之文為婺源余瑩所編輯喬新不以文章名而所作詳明剴切直抒胸臆學問經濟實具見於斯史稱其博綜羣籍聞異書輒借鈔積三萬餘帙皆手自校讐著述甚富則有本之言固宜與枵腹髙談者異矣乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:95ffbccf2822583f07a7831d03863cec0162624803aa4664b957badc105d41fd
+metadata:
+  title: 椒邱文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:20:38.464562'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0117/KR4e0117_000.txt
+hash: sha256:eda40d01097b81bc4c2b71e801c500949b069ffab91a3c5c068504754ad9fb6b
