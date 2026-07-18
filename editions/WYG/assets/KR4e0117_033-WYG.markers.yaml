@@ -305,6 +305,7 @@ markers:
       ', id: KR4e0117_WYG_033-bkkkrnewl73}
   - {type: line-break, offset: 1283, content: '', id: KR4e0117_WYG_033-5a02}
   - {type: punctuation, offset: 1299, content: (, id: KR4e0117_WYG_033-bkkpn1}
+  - {type: voice, offset: 1299, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1300, content: /, id: KR4e0117_WYG_033-bkkpn2}
   - {type: punctuation, offset: 1300, content: ), id: KR4e0117_WYG_033-bkkpn3}
   - {type: 'kr:newline', offset: 1304, content: '
@@ -388,9 +389,11 @@ markers:
       ', id: KR4e0117_WYG_033-bkkkrnewl93}
   - {type: line-break, offset: 1661, content: '', id: KR4e0117_WYG_033-6a04}
   - {type: punctuation, offset: 1672, content: (, id: KR4e0117_WYG_033-bkkpn4}
+  - {type: voice, offset: 1672, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1673, content: /, id: KR4e0117_WYG_033-bkkpn5}
   - {type: punctuation, offset: 1673, content: ), id: KR4e0117_WYG_033-bkkpn6}
   - {type: punctuation, offset: 1679, content: (, id: KR4e0117_WYG_033-bkkpn7}
+  - {type: voice, offset: 1679, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1680, content: /, id: KR4e0117_WYG_033-bkkpn8}
   - {type: punctuation, offset: 1680, content: ), id: KR4e0117_WYG_033-bkkpn9}
   - {type: 'kr:newline', offset: 1682, content: '
@@ -1041,6 +1044,7 @@ markers:
   - {type: line-break, offset: 3882, content: '', id: KR4e0117_WYG_033-13b05}
   - {type: indent, offset: 3882, content: 　, id: KR4e0117_WYG_033-bkkind108}
   - {type: punctuation, offset: 3896, content: (, id: KR4e0117_WYG_033-bkkpn10}
+  - {type: voice, offset: 3896, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3897, content: /, id: KR4e0117_WYG_033-bkkpn11}
   - {type: punctuation, offset: 3897, content: ), id: KR4e0117_WYG_033-bkkpn12}
   - {type: 'kr:newline', offset: 3902, content: '
@@ -1363,4 +1367,4 @@ markers:
 
       ', id: KR4e0117_WYG_033-bkkkrnewl305}
   back: []
-hash: sha256:a3f2a8dfb17e2d41e144388a51fd4dfb0c6b916fe425c9d6d7c2b2e69ffcfe09
+hash: sha256:e37c1dbfd2180dee1e30cc0b41fd009d3e1cc2a1b1d6538817cd22ecb7ab59b1
